@@ -1,0 +1,13 @@
+{
+  "name": "rally",
+  "version": "0.1.3",
+  "homepage": "https://github.com/RallyTools/rally-node",
+  "description": "A Node.js Toolkit for Accessing Rally's Webservice API",
+  "main": "lib/restapi.js",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "request": "2.29.x",
+    "q": "0.9.7",
+    "lodash": "2.4.x"
+  }
+}
