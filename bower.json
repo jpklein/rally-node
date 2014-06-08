@@ -5,6 +5,7 @@
   "description": "A Node.js Toolkit for Accessing Rally's Webservice API",
   "main": [
     "lib/util/ref.js",
+    "lib/request.js"
     "lib/restapi.js"
   ],
   "dependencies": {
