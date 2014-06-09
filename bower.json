@@ -9,8 +9,7 @@
     "lib/restapi.js"
   ],
   "dependencies": {
-    "request": "2.29.x",
-    "q": "0.9.7",
+    "angular": "~1.2.14",
     "lodash": "2.4.x"
   }
 }
